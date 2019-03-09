@@ -6,7 +6,7 @@ class Student
 
   end
 
-  
+
 
 
 end
